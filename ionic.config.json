@@ -1,0 +1,8 @@
+{
+  "name": "registrocoordenadas",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
